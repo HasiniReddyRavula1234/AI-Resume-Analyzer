@@ -192,6 +192,14 @@ Below are the key practical implementations and verified experimental outputs co
 
 ---
 
+
+## 📸 Lab Experiments & Screenshots Log (CS506PC: UI Design - Flutter)
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/87f08d53-3e1c-4222-a424-3e2ab3ee76ae" />
+
+---
+
+
 ### Experiment 10: Unit Testing & Debugging
 - **Objective:** Debug application runtime bugs using Flutter developer tooling.
 - **Implementation:** Diagnosed and resolved environment path lookup failures, fixed missing `pubspec.yaml` SDK constraint declarations, updated outdated package binaries for Python 3.13 compatibility, and configured FastAPI `CORSMiddleware`.
