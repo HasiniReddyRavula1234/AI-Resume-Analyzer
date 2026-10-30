@@ -13,7 +13,7 @@ An end-to-end, full-stack AI-powered Resume Analyzer and Applicant Tracking Syst
 
 ---
 
-##  Repository & Directory Structure
+## Repository & Directory Structure
 
 ```text
 AI_Resume-Analyzer/
