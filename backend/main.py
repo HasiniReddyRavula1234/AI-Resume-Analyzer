@@ -53,7 +53,7 @@ async def analyze_resume(
     # In a production app, you would pass job_description and resume_text to an LLM (like OpenAI/Claude).
     # For this robust backend foundation, we simulate the intelligent analysis results:
     
-    ats_score = 78
+    ats_score= 78
     missing_keywords = ["Kubernetes", "CI/CD Pipelines", "GraphQL", "Docker", "Unit Testing"]
     weak_bullets = [
         {
