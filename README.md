@@ -54,7 +54,7 @@ AI_Resume-Analyzer/
      python -m venv venv
      venv\Scripts\activate.bat
      ```
-   - **macOS / Linux:**
+   - **macOS / Linux:** 
      ```bash
      python3 -m venv venv
      source venv/bin/activate
