@@ -199,7 +199,7 @@ Below are the key practical implementations and verified experimental outputs co
 
 ---
 
-## ☁️ Deployment Guide
+##  Deployment Guide
 
 ### Backend (Render.com)
 1. Push repository code to GitHub.
