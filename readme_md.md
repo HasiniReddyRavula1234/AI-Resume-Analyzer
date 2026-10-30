@@ -28,7 +28,7 @@ AI_Resume-Analyzer/
 
 ---
 
-## 🚀 Quick Start & Local Development Setup
+##  Quick Start & Local Development Setup
 
 ### 1. Prerequisites
 - **Python 3.9+** (Python 3.13 supported)
@@ -88,7 +88,7 @@ AI_Resume-Analyzer/
 
 ---
 
-## 🔬 Lab Experiments & Outputs Log (CS506PC: UI Design - Flutter)
+##  Lab Experiments & Outputs Log (CS506PC: UI Design - Flutter)
 
 Below are the key practical implementations and verified experimental outputs corresponding to the **UI DESIGN - FLUTTER** lab syllabus.
 
