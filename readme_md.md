@@ -1,10 +1,10 @@
-# AI Resume Analyzer & ATS Optimizer 🚀
+# AI Resume Analyzer & ATS Optimizer 
 
 An end-to-end, full-stack AI-powered Resume Analyzer and Applicant Tracking System (ATS) Optimizer. This application enables candidates to upload resumes (PDF/DOCX), compare them against job descriptions, evaluate ATS compatibility scores, identify missing high-priority keywords, and dynamically optimize weak bullet points using an interactive AI "Fix-It" Studio.
 
 ---
 
-## 🛠️ Project Architecture & Tech Stack
+##  Project Architecture & Tech Stack
 
 - **Frontend:** Flutter Web / Mobile / Desktop (Dart)
 - **Backend:** FastAPI (Python 3.13)
@@ -13,7 +13,7 @@ An end-to-end, full-stack AI-powered Resume Analyzer and Applicant Tracking Syst
 
 ---
 
-## 📂 Repository & Directory Structure
+##  Repository & Directory Structure
 
 ```text
 AI_Resume-Analyzer/
